@@ -1,19 +1,16 @@
-# AEGIS™ Reference Runtime
+# AEGIS™ Reference Runtime (Archived)
+
+> **This repository is archived.** The AEGIS reference runtime has moved to [aegis-initiative/aegis-governance](https://github.com/aegis-initiative/aegis-governance). This redirect repo is retained for URL stability only.
+>
+> **Do not delete this repository before March 19, 2027.** External references and redirects may depend on this URL remaining resolvable until that date.
+
+---
 
 The AEGIS™ reference runtime implementation has moved.
 
 It is maintained as part of the core AEGIS™ governance repository:
 
-**[finnoybu/aegis-governance/aegis-runtime](https://github.com/finnoybu/aegis-governance/tree/main/aegis-runtime)**
-
----
-
-## Quick Start
-```bash
-git clone https://github.com/finnoybu/aegis-governance.git
-cd aegis-governance/aegis-runtime
-pip install -e .
-```
+**[aegis-initiative/aegis-governance/aegis-runtime](https://github.com/aegis-initiative/aegis-governance/tree/main/aegis-runtime)**
 
 ---
 
@@ -22,8 +19,7 @@ pip install -e .
 AEGIS™ (Architectural Enforcement & Governance of Intelligent Systems) is an 
 open governance architecture for AI agents.
 
-[aegis-governance repository](https://github.com/finnoybu/aegis-governance) ·
-[documentation](https://github.com/finnoybu/aegis-governance/blob/main/SPECIFICATION.md) ·
+[aegis-governance repository](https://github.com/aegis-initiative/aegis-governance) ·
 [aegissystems.app](https://aegissystems.app)
 
 ---
